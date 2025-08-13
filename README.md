@@ -1,6 +1,6 @@
 ## Hi there, I'm Tara 👋
 
-I'm an assistant editor at POLITICO, where I edit reporters' articles and sometimes contribute to data and graphics projects. Over summer 2025, I completed the Lede Program at Columbia Journalism School, where I learned data skills like Python, Pandas, web scraping, HTML, CSS, Javascript, R, Adobe Illustrator, ai2html, QGIS and Datawrapper. I love drawing and want to incoporate illustration into more of my projects. 
+I'm an assistant editor at POLITICO, where I edit reporters' articles and contribute to data and graphics projects. Over summer 2025, I completed the Lede Program at Columbia Journalism School, where I learned data skills like Python, Pandas, web scraping, HTML, CSS, Javascript, R, Adobe Illustrator, ai2html, QGIS and Datawrapper. I love drawing and want to incoporate illustration into more of my projects. 
 
 😄 Pronouns: She/her
 
