@@ -5,7 +5,8 @@ I'm an assistant editor at POLITICO, where I edit reporters' articles and contri
 My most recent project is a webpage on [how high schools are named in California](https://tgnewikow.github.io/CA-high-school-names/).
 
 😄 Pronouns: She/her <br>
-📚 Currently reading: A Tree Grows in Brooklyn
+📚 Currently reading: A Tree Grows in Brooklyn <br>
+🔭 Currently working on: Scraping restaurants from the Michelin website
 
 <!--
 **tgnewikow/tgnewikow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
